@@ -1,0 +1,7 @@
+ofxCv
+ofxKinect
+ofxKinectProjectorToolkit
+ofxOpenCv
+ofxProjectionMapping
+ofxSvg
+ofxVideoMapping
